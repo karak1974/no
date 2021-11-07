@@ -1,0 +1,11 @@
+pkgbase = no
+	pkgdesc = Opposite of the yes because it's no
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/karak1974/no
+	arch = x86_64
+	license = GPL
+	source = no.c
+	md5sums = 74ada161835192d150ca63ec8bd499e8
+
+pkgname = no
